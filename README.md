@@ -38,8 +38,6 @@ HDDCDD.R: This script calculates the Heating Degree Days (HDD) and Cooling Degre
 
 Pre_process_HDD_CDD_data_pc.R: This script calculates the daily delta in HDD and CDD between the historical climate data and each of the 15 climate scenarios for the population-weighted centroids of the SWITCH load zones
 
-Daily_delta_CDD_HDD_lz_scenario_15scenarios.csv: This is the csv file of the daily delta CDD and HDD by load zone and scenario produced by the Pre_process_HDD_CDD_data_pc.R script and is uploaded to the SWITCH database
-
 hdd_cdd_sql_queries_for_2023_CC_scenarios.sql: This script contains a set of SQL queries used to upload the daily delta of HDD and CDD into the SWITCH database, interpolate the load-temperature sensitivity factors for each SWITCH load zone and hour from the ReEDS zones and time slices, calculate the change in total hourly load for each SWITCH load zone and climate scenario, and create a new demand time series with the changed load. It also creates the scenarios for the SWITCH database that correspond to the new demand timeseries and time sampling time points for each climate scenario
 
 \Timesample\: This folder contains the scripts to calculate the peak and median day of each month for each investment period from the adjusted demand time series from each climate scenario, and produced the set of sampled time points for each scenario to be uploaded with the queries above to the SWITCH db.
