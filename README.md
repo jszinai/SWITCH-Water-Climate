@@ -3,7 +3,7 @@ Electricity system modeling incorporating climate impacts, adaptation, and water
 
 This repository archives the code needed to link outputs of the Western U.S. Water Systems Model (WWSM) created within the WEAP software platform with the electricity system capacity expansion model SWITCH under a number of climate scenarios, as well as the code to analyze and plot the results of the coupled models. The modeling methods are documented in the manuscript in submission:
 
-J.K. Szinai $$^1$$, D.Yates $$^2$$, P.S.Pérez $$^3$, M.Staadecker $$^4$$, D.Kammen $$^5$$, A.D.Jones $$^1,5$$, P.Hidalgo-Gonzalez $$^6$$. Climate change and its influence on water systems increases the cost of electricity system decarbonization. Preprint at https://doi.org/10.21203/rs.3.rs-3359999/v1 (2023).
+J.K. Szinai <sup>1<sup>, D.Yates <sup>2<sup>, P.S.Pérez <sup>3<sup>, M.Staadecker <sup>4<sup>, D.Kammen <sup>5<sup>, A.D.Jones <sup>1,5<sup>, P.Hidalgo-Gonzalez <sup>6<sup>. Climate change and its influence on water systems increases the cost of electricity system decarbonization. Preprint at https://doi.org/10.21203/rs.3.rs-3359999/v1 (2023).
 
 1 Lawrence Berkeley National Lab
 
