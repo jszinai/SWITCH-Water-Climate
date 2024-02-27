@@ -23,10 +23,8 @@ The electricity sector faces a dual challenge: decarbonization and adaptation to
 
 # Data pre-processing and model linkages
 1. Calculating energy demand and hydropower changes and coupling with SWITCH:
-This folder contains the input data and the scripts to couple the hydropower and energy demand related to water results from the WWSM model results with the SWITCH electricity system model
+This folder contains the scripts to couple the hydropower and energy demand related to water results from the WWSM model results with the SWITCH electricity system model
    
-\WEAP_Nov_8_2022results\data\Results\SupplyDelivered_Hydropower_EnergyUse\: This folder contains the results on hydropower potential and energy use related to water from the WWSM water model under 15 climate scenarios and the historical reference climate.
-
 Mapping_WEAP_energy_for_water_to_SWITCH_loadzonesOct2022_v1.xlsx: This is a mapping file used to link the names of the objects in the WWSM model with SWITCH inputs
 
 SWITCH_WEAP_hydropower_handshake.R: This script uses the hydropower potential results from the WWSM folder above, and adjusts the hydropower input files for SWITCH for each of the 15 climate scenarios
@@ -34,9 +32,7 @@ SWITCH_WEAP_hydropower_handshake.R: This script uses the hydropower potential re
 SWITCH_WEAP_energy_demand_handshake_andFig6: This script uses the energy demand related to water results from the WWSM folder above, maps the results with the mapping file to the SWITCH load zones, and adjusts the SWITCH load input files for each of the 15 climate scenarios. The script also creates Fig. 6 for the manuscript.
 
 2. Calculating heating and cooling load changes and coupling with SWITCH:
-This folder contains the input data and the scripts to calculate the change in heating and cooling degree days and the subsequent load changes based on load sensitivity factors, and adjust the SWITCH input data for each of the 15 climate scenarios 
-
-\Daily Tmin and Tmax data\: This folder contains all of the raw climate model data on minimum daily temperatures and maximum daily temperatures at the centroid of each of the SWITCH load zones. There is a folder for each climate scenario and the historical climate.
+This folder contains the scripts to calculate the change in heating and cooling degree days and the subsequent load changes based on load sensitivity factors, and adjust the SWITCH input data for each of the 15 climate scenarios 
 
 HDDCDD.R: This script calculates the Heating Degree Days (HDD) and Cooling Degree Days (CDD) for each climate scenario using the Daily Tmin and Tmax data from the folder above, and outputs the time series of HDD and CDD
 
@@ -46,11 +42,12 @@ Daily_delta_CDD_HDD_lz_scenario_15scenarios.csv: This is the csv file of the dai
 
 hdd_cdd_sql_queries_for_2023_CC_scenarios.sql: This script contains a set of SQL queries used to upload the daily delta of HDD and CDD into the SWITCH database, interpolate the load-temperature sensitivity factors for each SWITCH load zone and hour from the ReEDS zones and time slices, calculate the change in total hourly load for each SWITCH load zone and climate scenario, and create a new demand time series with the changed load. It also creates the scenarios for the SWITCH database that correspond to the new demand timeseries and time sampling time points for each climate scenario
 
-\Timesample\: This folder contains the scripts and input data to calculate the peak and median day of each month for each investment period from the adjusted demand time series from each climate scenario, and produced the set of sampled time points for each scenario to be uploaded with the queries above to the SWITCH db.
+\Timesample\: This folder contains the scripts to calculate the peak and median day of each month for each investment period from the adjusted demand time series from each climate scenario, and produced the set of sampled time points for each scenario to be uploaded with the queries above to the SWITCH db.
 
 # Analysis and plotting of results
 1. Scripts to analyze and plot SWITCH results:
-This folder contains the scripts to analyze and plot the results of the SWITCH climate scenarios. It contains an example set of SWITCH input and output data for the ACCESS-1.0 scenario.
+This folder contains the scripts to analyze and plot the results of the SWITCH climate scenarios.
+
 Comparison plots of different WEAP-SWITCH climate scenario runs_Fig2ab_3abc_4ab.R: This script reads in the SWITCH results for all climate scenarios and baseline, analyzes the results and produces Figures 2a, 2b, 3a, 3b, 3c, 4a, and 4b
 
 Precip_temp_and_load_hydropower_changes_Fig2c.R: This scripts calculates the average change in precipitation and temperature from the climate scenario data used in the WWSM water model (and SWITCH), aggregated by sub-region of the Western Interconnect, and plots the changes with the changes in hydropower and load from the SWITCH results (from file Cooling + Hydropower and Water Load ScenariosDELTA_lz_hydro_load_disagg.csv) to make Figure 2c.
@@ -59,9 +56,8 @@ Cooling + Hydropower and Water Load ScenariosDELTA_lz_hydro_load_disagg.csv: Thi
 
 Maps of capacity and dispatch deltas between Baseline and CC scenarios_Fig1Fig5aFig5b.R: This script calculates the delta of capacity online and dispatch for the climate scenarios compared to the SWITCH baseline and produces the figures and maps of Figure 5a and Figure 5b
 
-\id_202_WECC_0_carbon_baseline_5y_24_sample_barrier_ACCESS-1.0_CDD_HDD_Hydro_Load\: This folder contains an example set of SWITCH input and output data for the ACCESS-1.0 scenario.
-
 2. Manuscript figures and summary files:
 This folder contains the figures for the manuscript and its Supplementary Information (SI), and also has summary Excel files used to analyze and display data for the tables in the manuscript and SI.
 
-
+# Data availability
+Most of the input data for the scripts is available from the authors upon reasonable request.
