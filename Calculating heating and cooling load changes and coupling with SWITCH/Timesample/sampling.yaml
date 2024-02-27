@@ -1,0 +1,49 @@
+# This is the test configuration file for the Sampling script
+# We are moving away from a CLI approach to a configuration-file oriented
+#
+# Configuration of the sampling strategy
+#------------------------
+# Sampling configuration
+#------------------------
+# TODO make template more appropriate (don't hardcode specific values)
+study_timeframe:
+  id: 39
+  name: 2050
+  description: >
+      2030-2050 periods with 5 year length each.
+
+periods:
+  2030:
+    start_year: 2028
+    end_year: 2032
+    length: 5
+  2035:
+    start_year: 2033
+    end_year: 2037
+    length: 5
+  2040:
+    start_year: 2038
+    end_year: 2042
+    length: 5
+  2045:
+    start_year: 2043
+    end_year: 2047
+    length: 5
+  2050:
+    start_year: 2048
+    end_year: 2052
+    length: 5
+
+# Load configuration
+# Required for sampling selected timepoints
+#CHANGE HERE FOR UPDATED LOAD SCENARIO FOR CLIMATE SCENARIOS
+demand_scenario: 174 # Scenario for using as load
+
+sampling:
+  id: 38 # Add description to this ID
+  tps_per_day: 24
+  name: P+M+24hr+CESM1-CAM5_rcp85
+  method: M1
+  description: >
+      Peak + median day per month with 24-hrs resolution for CESM1-CAM5_rcp85 climate scenario.
+...

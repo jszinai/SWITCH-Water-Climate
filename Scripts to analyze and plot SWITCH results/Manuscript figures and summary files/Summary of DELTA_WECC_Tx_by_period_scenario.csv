@@ -1,0 +1,301 @@
+Scenario,PERIOD,Tx_type,MW_Tx,Baseline_Scenario,MW_Tx_baseline,Delta_MW_Tx,Tx_perc_change_from_baseline
+ACCESS-1.0,2030,New Tx Capacity Built,3694.215,Baseline no CC,8720.105,-5025.89,-0.576
+ACCESS-1.0,2035,New Tx Capacity Built,18298.346,Baseline no CC,11557.78,6740.566,0.583
+ACCESS-1.0,2040,New Tx Capacity Built,18631.43,Baseline no CC,31145.3869,-12513.9569,-0.402
+ACCESS-1.0,2045,New Tx Capacity Built,18165.796,Baseline no CC,13951.558,4214.238,0.302
+ACCESS-1.0,2050,New Tx Capacity Built,20130.089,Baseline no CC,18652.163,1477.926,0.079
+CCSM,2030,New Tx Capacity Built,6099.430394,Baseline no CC,8720.105,-2620.674606,-0.301
+CCSM,2035,New Tx Capacity Built,10131.70582,Baseline no CC,11557.78,-1426.074177,-0.123
+CCSM,2040,New Tx Capacity Built,35054.14259,Baseline no CC,31145.3869,3908.755688,0.126
+CCSM,2045,New Tx Capacity Built,13945.56041,Baseline no CC,13951.558,-5.997587128,0
+CCSM,2050,New Tx Capacity Built,9001.31051,Baseline no CC,18652.163,-9650.85249,-0.517
+CESM1-BGC,2030,New Tx Capacity Built,9178.397308,Baseline no CC,8720.105,458.2923079,0.053
+CESM1-BGC,2035,New Tx Capacity Built,8600.176579,Baseline no CC,11557.78,-2957.603421,-0.256
+CESM1-BGC,2040,New Tx Capacity Built,18658.52693,Baseline no CC,31145.3869,-12486.85997,-0.401
+CESM1-BGC,2045,New Tx Capacity Built,37694.77539,Baseline no CC,13951.558,23743.21739,1.702
+CESM1-BGC,2050,New Tx Capacity Built,13698.23606,Baseline no CC,18652.163,-4953.926944,-0.266
+CESM1-CAM5,2030,New Tx Capacity Built,2681.061,Baseline no CC,8720.105,-6039.044,-0.693
+CESM1-CAM5,2035,New Tx Capacity Built,9393.511,Baseline no CC,11557.78,-2164.269,-0.187
+CESM1-CAM5,2040,New Tx Capacity Built,33386.1,Baseline no CC,31145.3869,2240.7131,0.072
+CESM1-CAM5,2045,New Tx Capacity Built,27610.16002,Baseline no CC,13951.558,13658.60202,0.979
+CESM1-CAM5,2050,New Tx Capacity Built,24048.06002,Baseline no CC,18652.163,5395.897016,0.289
+CMCC-CM,2030,New Tx Capacity Built,5888.45,Baseline no CC,8720.105,-2831.655,-0.325
+CMCC-CM,2035,New Tx Capacity Built,12764.388,Baseline no CC,11557.78,1206.608,0.104
+CMCC-CM,2040,New Tx Capacity Built,22500.59801,Baseline no CC,31145.3869,-8644.788885,-0.278
+CMCC-CM,2045,New Tx Capacity Built,1761.966016,Baseline no CC,13951.558,-12189.59198,-0.874
+CMCC-CM,2050,New Tx Capacity Built,3879.024,Baseline no CC,18652.163,-14773.139,-0.792
+CMCC-CMS,2030,New Tx Capacity Built,3193.2,Baseline no CC,8720.105,-5526.905,-0.634
+CMCC-CMS,2035,New Tx Capacity Built,8767.791,Baseline no CC,11557.78,-2789.989,-0.241
+CMCC-CMS,2040,New Tx Capacity Built,7426.247,Baseline no CC,31145.3869,-23719.1399,-0.762
+CMCC-CMS,2045,New Tx Capacity Built,22593.88,Baseline no CC,13951.558,8642.322,0.619
+CMCC-CMS,2050,New Tx Capacity Built,10526.8,Baseline no CC,18652.163,-8125.363,-0.436
+CNRM-CM5,2030,New Tx Capacity Built,3996.71,Baseline no CC,8720.105,-4723.395,-0.542
+CNRM-CM5,2035,New Tx Capacity Built,5332.47,Baseline no CC,11557.78,-6225.31,-0.539
+CNRM-CM5,2040,New Tx Capacity Built,20310.08,Baseline no CC,31145.3869,-10835.3069,-0.348
+CNRM-CM5,2045,New Tx Capacity Built,39985.014,Baseline no CC,13951.558,26033.456,1.866
+CNRM-CM5,2050,New Tx Capacity Built,11469.14002,Baseline no CC,18652.163,-7183.02298,-0.385
+CanESM,2030,New Tx Capacity Built,9854.336,Baseline no CC,8720.105,1134.231,0.13
+CanESM,2035,New Tx Capacity Built,7413.82,Baseline no CC,11557.78,-4143.96,-0.359
+CanESM,2040,New Tx Capacity Built,28187.22,Baseline no CC,31145.3869,-2958.1669,-0.095
+CanESM,2045,New Tx Capacity Built,22542.6079,Baseline no CC,13951.558,8591.0499,0.616
+CanESM,2050,New Tx Capacity Built,13613.70002,Baseline no CC,18652.163,-5038.462978,-0.27
+GFDL-CM3,2030,New Tx Capacity Built,4661.15002,Baseline no CC,8720.105,-4058.95498,-0.465
+GFDL-CM3,2035,New Tx Capacity Built,8657.762027,Baseline no CC,11557.78,-2900.017973,-0.251
+GFDL-CM3,2040,New Tx Capacity Built,30676.45812,Baseline no CC,31145.3869,-468.928781,-0.015
+GFDL-CM3,2045,New Tx Capacity Built,26384.76601,Baseline no CC,13951.558,12433.20801,0.891
+GFDL-CM3,2050,New Tx Capacity Built,23994.88221,Baseline no CC,18652.163,5342.719208,0.286
+GFDL-ESM2M,2030,New Tx Capacity Built,4309.36,Baseline no CC,8720.105,-4410.745,-0.506
+GFDL-ESM2M,2035,New Tx Capacity Built,8488.13,Baseline no CC,11557.78,-3069.65,-0.266
+GFDL-ESM2M,2040,New Tx Capacity Built,18400.706,Baseline no CC,31145.3869,-12744.6809,-0.409
+GFDL-ESM2M,2045,New Tx Capacity Built,10710.34002,Baseline no CC,13951.558,-3241.217975,-0.232
+GFDL-ESM2M,2050,New Tx Capacity Built,31156.85205,Baseline no CC,18652.163,12504.68905,0.67
+HadGEM2-CC,2030,New Tx Capacity Built,9045.98,Baseline no CC,8720.105,325.875,0.037
+HadGEM2-CC,2035,New Tx Capacity Built,14928.522,Baseline no CC,11557.78,3370.742,0.292
+HadGEM2-CC,2040,New Tx Capacity Built,20567.9521,Baseline no CC,31145.3869,-10577.4348,-0.34
+HadGEM2-CC,2045,New Tx Capacity Built,7338.484,Baseline no CC,13951.558,-6613.074,-0.474
+HadGEM2-CC,2050,New Tx Capacity Built,12038.149,Baseline no CC,18652.163,-6614.014,-0.355
+HadGEM2-ES,2030,New Tx Capacity Built,7354.2152,Baseline no CC,8720.105,-1365.8898,-0.157
+HadGEM2-ES,2035,New Tx Capacity Built,3829.7,Baseline no CC,11557.78,-7728.08,-0.669
+HadGEM2-ES,2040,New Tx Capacity Built,26963.296,Baseline no CC,31145.3869,-4182.0909,-0.134
+HadGEM2-ES,2045,New Tx Capacity Built,26920.84,Baseline no CC,13951.558,12969.282,0.93
+HadGEM2-ES,2050,New Tx Capacity Built,10521.92,Baseline no CC,18652.163,-8130.243,-0.436
+MIROC5,2030,New Tx Capacity Built,5177.61,Baseline no CC,8720.105,-3542.495,-0.406
+MIROC5,2035,New Tx Capacity Built,8460.10885,Baseline no CC,11557.78,-3097.67115,-0.268
+MIROC5,2040,New Tx Capacity Built,40775.286,Baseline no CC,31145.3869,9629.8991,0.309
+MIROC5,2045,New Tx Capacity Built,18140.27,Baseline no CC,13951.558,4188.712,0.3
+MIROC5,2050,New Tx Capacity Built,24078.138,Baseline no CC,18652.163,5425.975,0.291
+MPI-ESM-LR,2030,New Tx Capacity Built,5044.140019,Baseline no CC,8720.105,-3675.964981,-0.422
+MPI-ESM-LR,2035,New Tx Capacity Built,4921.73,Baseline no CC,11557.78,-6636.05,-0.574
+MPI-ESM-LR,2040,New Tx Capacity Built,29549.95001,Baseline no CC,31145.3869,-1595.436885,-0.051
+MPI-ESM-LR,2045,New Tx Capacity Built,17190.02101,Baseline no CC,13951.558,3238.46301,0.232
+MPI-ESM-LR,2050,New Tx Capacity Built,21319.92901,Baseline no CC,18652.163,2667.766013,0.143
+bcc-csm1-1,2030,New Tx Capacity Built,9883.57,Baseline no CC,8720.105,1163.465,0.133
+bcc-csm1-1,2035,New Tx Capacity Built,8714.84,Baseline no CC,11557.78,-2842.94,-0.246
+bcc-csm1-1,2040,New Tx Capacity Built,20629.3621,Baseline no CC,31145.3869,-10516.0248,-0.338
+bcc-csm1-1,2045,New Tx Capacity Built,33828.48,Baseline no CC,13951.558,19876.922,1.425
+bcc-csm1-1,2050,New Tx Capacity Built,14067.65,Baseline no CC,18652.163,-4584.513,-0.246
+ACCESS-1.0,2030,Total Tx Nameplate Capacity,400829.16,Baseline no CC,405855.1,-5025.94,-0.012
+ACCESS-1.0,2035,Total Tx Nameplate Capacity,419127.271,Baseline no CC,417412.89,1714.381,0.004
+ACCESS-1.0,2040,Total Tx Nameplate Capacity,437759.451,Baseline no CC,448558.19,-10798.739,-0.024
+ACCESS-1.0,2045,Total Tx Nameplate Capacity,455924.433,Baseline no CC,462509.55,-6585.117,-0.014
+ACCESS-1.0,2050,Total Tx Nameplate Capacity,476054.903,Baseline no CC,481162.59,-5107.687,-0.011
+CCSM,2030,Total Tx Nameplate Capacity,403234.4304,Baseline no CC,405855.1,-2620.669606,-0.006
+CCSM,2035,Total Tx Nameplate Capacity,413366.2313,Baseline no CC,417412.89,-4046.658702,-0.01
+CCSM,2040,Total Tx Nameplate Capacity,448420.3409,Baseline no CC,448558.19,-137.8491458,0
+CCSM,2045,Total Tx Nameplate Capacity,462365.8111,Baseline no CC,462509.55,-143.738946,0
+CCSM,2050,Total Tx Nameplate Capacity,471367.1912,Baseline no CC,481162.59,-9795.398772,-0.02
+CESM1-BGC,2030,Total Tx Nameplate Capacity,406313.3952,Baseline no CC,405855.1,458.2951749,0.001
+CESM1-BGC,2035,Total Tx Nameplate Capacity,414913.5009,Baseline no CC,417412.89,-2499.389115,-0.006
+CESM1-BGC,2040,Total Tx Nameplate Capacity,433572.2104,Baseline no CC,448558.19,-14985.97963,-0.033
+CESM1-BGC,2045,Total Tx Nameplate Capacity,471267.0141,Baseline no CC,462509.55,8757.464146,0.019
+CESM1-BGC,2050,Total Tx Nameplate Capacity,484965.1292,Baseline no CC,481162.59,3802.539227,0.008
+CESM1-CAM5,2030,Total Tx Nameplate Capacity,399816.06,Baseline no CC,405855.1,-6039.04,-0.015
+CESM1-CAM5,2035,Total Tx Nameplate Capacity,409209.611,Baseline no CC,417412.89,-8203.279,-0.02
+CESM1-CAM5,2040,Total Tx Nameplate Capacity,442595.641,Baseline no CC,448558.19,-5962.549,-0.013
+CESM1-CAM5,2045,Total Tx Nameplate Capacity,470205.701,Baseline no CC,462509.55,7696.151,0.017
+CESM1-CAM5,2050,Total Tx Nameplate Capacity,494253.411,Baseline no CC,481162.59,13090.821,0.027
+CMCC-CM,2030,Total Tx Nameplate Capacity,403023.42,Baseline no CC,405855.1,-2831.68,-0.007
+CMCC-CM,2035,Total Tx Nameplate Capacity,415787.845,Baseline no CC,417412.89,-1625.045,-0.004
+CMCC-CM,2040,Total Tx Nameplate Capacity,438288.785,Baseline no CC,448558.19,-10269.40498,-0.023
+CMCC-CM,2045,Total Tx Nameplate Capacity,440050.685,Baseline no CC,462509.55,-22458.86496,-0.049
+CMCC-CM,2050,Total Tx Nameplate Capacity,443929.5851,Baseline no CC,481162.59,-37233.00495,-0.077
+CMCC-CMS,2030,Total Tx Nameplate Capacity,400328.2,Baseline no CC,405855.1,-5526.9,-0.014
+CMCC-CMS,2035,Total Tx Nameplate Capacity,409096.02,Baseline no CC,417412.89,-8316.87,-0.02
+CMCC-CMS,2040,Total Tx Nameplate Capacity,416522.25,Baseline no CC,448558.19,-32035.94,-0.071
+CMCC-CMS,2045,Total Tx Nameplate Capacity,439115.72,Baseline no CC,462509.55,-23393.83,-0.051
+CMCC-CMS,2050,Total Tx Nameplate Capacity,449642.92,Baseline no CC,481162.59,-31519.67,-0.066
+CNRM-CM5,2030,Total Tx Nameplate Capacity,401131.7,Baseline no CC,405855.1,-4723.4,-0.012
+CNRM-CM5,2035,Total Tx Nameplate Capacity,406464.28,Baseline no CC,417412.89,-10948.61,-0.026
+CNRM-CM5,2040,Total Tx Nameplate Capacity,426774.32,Baseline no CC,448558.19,-21783.87,-0.049
+CNRM-CM5,2045,Total Tx Nameplate Capacity,466759.586,Baseline no CC,462509.55,4250.036,0.009
+CNRM-CM5,2050,Total Tx Nameplate Capacity,478228.886,Baseline no CC,481162.59,-2933.703974,-0.006
+CanESM,2030,Total Tx Nameplate Capacity,406989.33,Baseline no CC,405855.1,1134.23,0.003
+CanESM,2035,Total Tx Nameplate Capacity,414403.03,Baseline no CC,417412.89,-3009.86,-0.007
+CanESM,2040,Total Tx Nameplate Capacity,442590.22,Baseline no CC,448558.19,-5967.97,-0.013
+CanESM,2045,Total Tx Nameplate Capacity,465132.554,Baseline no CC,462509.55,2623.004,0.006
+CanESM,2050,Total Tx Nameplate Capacity,478746.004,Baseline no CC,481162.59,-2416.585976,-0.005
+GFDL-CM3,2030,Total Tx Nameplate Capacity,401796.2,Baseline no CC,405855.1,-4058.89998,-0.01
+GFDL-CM3,2035,Total Tx Nameplate Capacity,410454.1001,Baseline no CC,417412.89,-6958.789949,-0.017
+GFDL-CM3,2040,Total Tx Nameplate Capacity,441130.11,Baseline no CC,448558.19,-7428.079969,-0.017
+GFDL-CM3,2045,Total Tx Nameplate Capacity,467515.0801,Baseline no CC,462509.55,5005.530061,0.011
+GFDL-CM3,2050,Total Tx Nameplate Capacity,491510.3003,Baseline no CC,481162.59,10347.71029,0.022
+GFDL-ESM2M,2030,Total Tx Nameplate Capacity,401444.39,Baseline no CC,405855.1,-4410.71,-0.011
+GFDL-ESM2M,2035,Total Tx Nameplate Capacity,409932.43,Baseline no CC,417412.89,-7480.46,-0.018
+GFDL-ESM2M,2040,Total Tx Nameplate Capacity,428333.059,Baseline no CC,448558.19,-20225.131,-0.045
+GFDL-ESM2M,2045,Total Tx Nameplate Capacity,439043.559,Baseline no CC,462509.55,-23465.99097,-0.051
+GFDL-ESM2M,2050,Total Tx Nameplate Capacity,470200.7121,Baseline no CC,481162.59,-10961.87792,-0.023
+HadGEM2-CC,2030,Total Tx Nameplate Capacity,406181,Baseline no CC,405855.1,325.9,0.001
+HadGEM2-CC,2035,Total Tx Nameplate Capacity,421109.52,Baseline no CC,417412.89,3696.63,0.009
+HadGEM2-CC,2040,Total Tx Nameplate Capacity,441677.37,Baseline no CC,448558.19,-6880.82,-0.015
+HadGEM2-CC,2045,Total Tx Nameplate Capacity,449015.94,Baseline no CC,462509.55,-13493.61,-0.029
+HadGEM2-CC,2050,Total Tx Nameplate Capacity,461054.04,Baseline no CC,481162.59,-20108.55,-0.042
+HadGEM2-ES,2030,Total Tx Nameplate Capacity,404489.1752,Baseline no CC,405855.1,-1365.9248,-0.003
+HadGEM2-ES,2035,Total Tx Nameplate Capacity,408318.9752,Baseline no CC,417412.89,-9093.9148,-0.022
+HadGEM2-ES,2040,Total Tx Nameplate Capacity,435282.15,Baseline no CC,448558.19,-13276.04,-0.03
+HadGEM2-ES,2045,Total Tx Nameplate Capacity,462203.39,Baseline no CC,462509.55,-306.16,-0.001
+HadGEM2-ES,2050,Total Tx Nameplate Capacity,472725.49,Baseline no CC,481162.59,-8437.1,-0.018
+MIROC5,2030,Total Tx Nameplate Capacity,402312.61,Baseline no CC,405855.1,-3542.49,-0.009
+MIROC5,2035,Total Tx Nameplate Capacity,410772.5689,Baseline no CC,417412.89,-6640.32115,-0.016
+MIROC5,2040,Total Tx Nameplate Capacity,451547.8589,Baseline no CC,448558.19,2989.66885,0.007
+MIROC5,2045,Total Tx Nameplate Capacity,469688.1789,Baseline no CC,462509.55,7178.62885,0.016
+MIROC5,2050,Total Tx Nameplate Capacity,493765.3989,Baseline no CC,481162.59,12602.80885,0.026
+MPI-ESM-LR,2030,Total Tx Nameplate Capacity,402179.06,Baseline no CC,405855.1,-3676.039981,-0.009
+MPI-ESM-LR,2035,Total Tx Nameplate Capacity,407100.8,Baseline no CC,417412.89,-10312.08997,-0.025
+MPI-ESM-LR,2040,Total Tx Nameplate Capacity,436650.62,Baseline no CC,448558.19,-11907.56997,-0.027
+MPI-ESM-LR,2045,Total Tx Nameplate Capacity,453840.6601,Baseline no CC,462509.55,-8668.889931,-0.019
+MPI-ESM-LR,2050,Total Tx Nameplate Capacity,475160.3901,Baseline no CC,481162.59,-6002.199909,-0.012
+bcc-csm1-1,2030,Total Tx Nameplate Capacity,407018.55,Baseline no CC,405855.1,1163.45,0.003
+bcc-csm1-1,2035,Total Tx Nameplate Capacity,415733.32,Baseline no CC,417412.89,-1679.57,-0.004
+bcc-csm1-1,2040,Total Tx Nameplate Capacity,436362.82,Baseline no CC,448558.19,-12195.37,-0.027
+bcc-csm1-1,2045,Total Tx Nameplate Capacity,470191.09,Baseline no CC,462509.55,7681.54,0.017
+bcc-csm1-1,2050,Total Tx Nameplate Capacity,484258.14,Baseline no CC,481162.59,3095.55,0.006
+ACCESS-1.0,2030,Cumulative New Tx Capacity Built,3694.215,Baseline no CC,8720.105,-5025.89,-0.576
+ACCESS-1.0,2035,Cumulative New Tx Capacity Built,21992.561,Baseline no CC,20277.885,1714.676,0.085
+ACCESS-1.0,2040,Cumulative New Tx Capacity Built,40623.991,Baseline no CC,51423.2719,-10799.2809,-0.21
+ACCESS-1.0,2045,Cumulative New Tx Capacity Built,58789.787,Baseline no CC,65374.8299,-6585.0429,-0.101
+ACCESS-1.0,2050,Cumulative New Tx Capacity Built,78919.876,Baseline no CC,84026.9929,-5107.1169,-0.061
+CCSM,2030,Cumulative New Tx Capacity Built,6099.430394,Baseline no CC,8720.105,-2620.674606,-0.301
+CCSM,2035,Cumulative New Tx Capacity Built,16231.13622,Baseline no CC,20277.885,-4046.748783,-0.2
+CCSM,2040,Cumulative New Tx Capacity Built,51285.2788,Baseline no CC,51423.2719,-137.9930953,-0.003
+CCSM,2045,Cumulative New Tx Capacity Built,65230.83922,Baseline no CC,65374.8299,-143.9906824,-0.002
+CCSM,2050,Cumulative New Tx Capacity Built,74232.14973,Baseline no CC,84026.9929,-9794.843172,-0.117
+CESM1-BGC,2030,Cumulative New Tx Capacity Built,9178.397308,Baseline no CC,8720.105,458.2923079,0.053
+CESM1-BGC,2035,Cumulative New Tx Capacity Built,17778.57389,Baseline no CC,20277.885,-2499.311113,-0.123
+CESM1-BGC,2040,Cumulative New Tx Capacity Built,36437.10082,Baseline no CC,51423.2719,-14986.17108,-0.291
+CESM1-BGC,2045,Cumulative New Tx Capacity Built,74131.87621,Baseline no CC,65374.8299,8757.046312,0.134
+CESM1-BGC,2050,Cumulative New Tx Capacity Built,87830.11227,Baseline no CC,84026.9929,3803.119369,0.045
+CESM1-CAM5,2030,Cumulative New Tx Capacity Built,2681.061,Baseline no CC,8720.105,-6039.044,-0.693
+CESM1-CAM5,2035,Cumulative New Tx Capacity Built,12074.572,Baseline no CC,20277.885,-8203.313,-0.405
+CESM1-CAM5,2040,Cumulative New Tx Capacity Built,45460.672,Baseline no CC,51423.2719,-5962.5999,-0.116
+CESM1-CAM5,2045,Cumulative New Tx Capacity Built,73070.83202,Baseline no CC,65374.8299,7696.002116,0.118
+CESM1-CAM5,2050,Cumulative New Tx Capacity Built,97118.89203,Baseline no CC,84026.9929,13091.89913,0.156
+CMCC-CM,2030,Cumulative New Tx Capacity Built,5888.45,Baseline no CC,8720.105,-2831.655,-0.325
+CMCC-CM,2035,Cumulative New Tx Capacity Built,18652.838,Baseline no CC,20277.885,-1625.047,-0.08
+CMCC-CM,2040,Cumulative New Tx Capacity Built,41153.43601,Baseline no CC,51423.2719,-10269.83589,-0.2
+CMCC-CM,2045,Cumulative New Tx Capacity Built,42915.40203,Baseline no CC,65374.8299,-22459.42787,-0.344
+CMCC-CM,2050,Cumulative New Tx Capacity Built,46794.42603,Baseline no CC,84026.9929,-37232.56687,-0.443
+CMCC-CMS,2030,Cumulative New Tx Capacity Built,3193.2,Baseline no CC,8720.105,-5526.905,-0.634
+CMCC-CMS,2035,Cumulative New Tx Capacity Built,11960.991,Baseline no CC,20277.885,-8316.894,-0.41
+CMCC-CMS,2040,Cumulative New Tx Capacity Built,19387.238,Baseline no CC,51423.2719,-32036.0339,-0.623
+CMCC-CMS,2045,Cumulative New Tx Capacity Built,41981.118,Baseline no CC,65374.8299,-23393.7119,-0.358
+CMCC-CMS,2050,Cumulative New Tx Capacity Built,52507.918,Baseline no CC,84026.9929,-31519.0749,-0.375
+CNRM-CM5,2030,Cumulative New Tx Capacity Built,3996.71,Baseline no CC,8720.105,-4723.395,-0.542
+CNRM-CM5,2035,Cumulative New Tx Capacity Built,9329.18,Baseline no CC,20277.885,-10948.705,-0.54
+CNRM-CM5,2040,Cumulative New Tx Capacity Built,29639.26,Baseline no CC,51423.2719,-21784.0119,-0.424
+CNRM-CM5,2045,Cumulative New Tx Capacity Built,69624.274,Baseline no CC,65374.8299,4249.4441,0.065
+CNRM-CM5,2050,Cumulative New Tx Capacity Built,81093.41402,Baseline no CC,84026.9929,-2933.57888,-0.035
+CanESM,2030,Cumulative New Tx Capacity Built,9854.336,Baseline no CC,8720.105,1134.231,0.13
+CanESM,2035,Cumulative New Tx Capacity Built,17268.156,Baseline no CC,20277.885,-3009.729,-0.148
+CanESM,2040,Cumulative New Tx Capacity Built,45455.376,Baseline no CC,51423.2719,-5967.8959,-0.116
+CanESM,2045,Cumulative New Tx Capacity Built,67997.9839,Baseline no CC,65374.8299,2623.154,0.04
+CanESM,2050,Cumulative New Tx Capacity Built,81611.68392,Baseline no CC,84026.9929,-2415.308978,-0.029
+GFDL-CM3,2030,Cumulative New Tx Capacity Built,4661.15002,Baseline no CC,8720.105,-4058.95498,-0.465
+GFDL-CM3,2035,Cumulative New Tx Capacity Built,13318.91205,Baseline no CC,20277.885,-6958.972953,-0.343
+GFDL-CM3,2040,Cumulative New Tx Capacity Built,43995.37017,Baseline no CC,51423.2719,-7427.901734,-0.144
+GFDL-CM3,2045,Cumulative New Tx Capacity Built,70380.13618,Baseline no CC,65374.8299,5005.306278,0.077
+GFDL-CM3,2050,Cumulative New Tx Capacity Built,94375.01839,Baseline no CC,84026.9929,10348.02549,0.123
+GFDL-ESM2M,2030,Cumulative New Tx Capacity Built,4309.36,Baseline no CC,8720.105,-4410.745,-0.506
+GFDL-ESM2M,2035,Cumulative New Tx Capacity Built,12797.49,Baseline no CC,20277.885,-7480.395,-0.369
+GFDL-ESM2M,2040,Cumulative New Tx Capacity Built,31198.196,Baseline no CC,51423.2719,-20225.0759,-0.393
+GFDL-ESM2M,2045,Cumulative New Tx Capacity Built,41908.53602,Baseline no CC,65374.8299,-23466.29388,-0.359
+GFDL-ESM2M,2050,Cumulative New Tx Capacity Built,73065.38807,Baseline no CC,84026.9929,-10961.60483,-0.13
+HadGEM2-CC,2030,Cumulative New Tx Capacity Built,9045.98,Baseline no CC,8720.105,325.875,0.037
+HadGEM2-CC,2035,Cumulative New Tx Capacity Built,23974.502,Baseline no CC,20277.885,3696.617,0.182
+HadGEM2-CC,2040,Cumulative New Tx Capacity Built,44542.4541,Baseline no CC,51423.2719,-6880.8178,-0.134
+HadGEM2-CC,2045,Cumulative New Tx Capacity Built,51880.9381,Baseline no CC,65374.8299,-13493.8918,-0.206
+HadGEM2-CC,2050,Cumulative New Tx Capacity Built,63919.0871,Baseline no CC,84026.9929,-20107.9058,-0.239
+HadGEM2-ES,2030,Cumulative New Tx Capacity Built,7354.2152,Baseline no CC,8720.105,-1365.8898,-0.157
+HadGEM2-ES,2035,Cumulative New Tx Capacity Built,11183.9152,Baseline no CC,20277.885,-9093.9698,-0.448
+HadGEM2-ES,2040,Cumulative New Tx Capacity Built,38147.2112,Baseline no CC,51423.2719,-13276.0607,-0.258
+HadGEM2-ES,2045,Cumulative New Tx Capacity Built,65068.0512,Baseline no CC,65374.8299,-306.7787,-0.005
+HadGEM2-ES,2050,Cumulative New Tx Capacity Built,75589.9712,Baseline no CC,84026.9929,-8437.0217,-0.1
+MIROC5,2030,Cumulative New Tx Capacity Built,5177.61,Baseline no CC,8720.105,-3542.495,-0.406
+MIROC5,2035,Cumulative New Tx Capacity Built,13637.71885,Baseline no CC,20277.885,-6640.16615,-0.327
+MIROC5,2040,Cumulative New Tx Capacity Built,54413.00485,Baseline no CC,51423.2719,2989.73295,0.058
+MIROC5,2045,Cumulative New Tx Capacity Built,72553.27485,Baseline no CC,65374.8299,7178.44495,0.11
+MIROC5,2050,Cumulative New Tx Capacity Built,96631.41285,Baseline no CC,84026.9929,12604.41995,0.15
+MPI-ESM-LR,2030,Cumulative New Tx Capacity Built,5044.140019,Baseline no CC,8720.105,-3675.964981,-0.422
+MPI-ESM-LR,2035,Cumulative New Tx Capacity Built,9965.870019,Baseline no CC,20277.885,-10312.01498,-0.509
+MPI-ESM-LR,2040,Cumulative New Tx Capacity Built,39515.82003,Baseline no CC,51423.2719,-11907.45187,-0.232
+MPI-ESM-LR,2045,Cumulative New Tx Capacity Built,56705.84104,Baseline no CC,65374.8299,-8668.988856,-0.133
+MPI-ESM-LR,2050,Cumulative New Tx Capacity Built,78025.77006,Baseline no CC,84026.9929,-6001.222843,-0.071
+bcc-csm1-1,2030,Cumulative New Tx Capacity Built,9883.57,Baseline no CC,8720.105,1163.465,0.133
+bcc-csm1-1,2035,Cumulative New Tx Capacity Built,18598.41,Baseline no CC,20277.885,-1679.475,-0.083
+bcc-csm1-1,2040,Cumulative New Tx Capacity Built,39227.7721,Baseline no CC,51423.2719,-12195.4998,-0.237
+bcc-csm1-1,2045,Cumulative New Tx Capacity Built,73056.2521,Baseline no CC,65374.8299,7681.4222,0.117
+bcc-csm1-1,2050,Cumulative New Tx Capacity Built,87123.9021,Baseline no CC,84026.9929,3096.9092,0.037
+ACCESS-1.0,2030,Existing Tx Capacity,397134.945,Baseline no CC,397134.995,-0.05,0
+ACCESS-1.0,2035,Existing Tx Capacity,400828.925,Baseline no CC,405855.11,-5026.185,-0.012
+ACCESS-1.0,2040,Existing Tx Capacity,419128.021,Baseline no CC,417412.8031,1715.2179,0.004
+ACCESS-1.0,2045,Existing Tx Capacity,437758.637,Baseline no CC,448557.992,-10799.355,-0.024
+ACCESS-1.0,2050,Existing Tx Capacity,455924.814,Baseline no CC,462510.427,-6585.613,-0.014
+CCSM,2030,Existing Tx Capacity,397135,Baseline no CC,397134.995,0.005,0
+CCSM,2035,Existing Tx Capacity,403234.5255,Baseline no CC,405855.11,-2620.584525,-0.006
+CCSM,2040,Existing Tx Capacity,413366.1983,Baseline no CC,417412.8031,-4046.604834,-0.01
+CCSM,2045,Existing Tx Capacity,448420.2506,Baseline no CC,448557.992,-137.7413588,0
+CCSM,2050,Existing Tx Capacity,462365.8807,Baseline no CC,462510.427,-144.5462817,0
+CESM1-BGC,2030,Existing Tx Capacity,397134.9979,Baseline no CC,397134.995,0.002866934,0
+CESM1-BGC,2035,Existing Tx Capacity,406313.3243,Baseline no CC,405855.11,458.2143059,0.001
+CESM1-BGC,2040,Existing Tx Capacity,414913.6834,Baseline no CC,417412.8031,-2499.119666,-0.006
+CESM1-BGC,2045,Existing Tx Capacity,433572.2388,Baseline no CC,448557.992,-14985.75325,-0.033
+CESM1-BGC,2050,Existing Tx Capacity,471266.8932,Baseline no CC,462510.427,8756.466171,0.019
+CESM1-CAM5,2030,Existing Tx Capacity,397134.999,Baseline no CC,397134.995,0.004,0
+CESM1-CAM5,2035,Existing Tx Capacity,399816.1,Baseline no CC,405855.11,-6039.01,-0.015
+CESM1-CAM5,2040,Existing Tx Capacity,409209.541,Baseline no CC,417412.8031,-8203.2621,-0.02
+CESM1-CAM5,2045,Existing Tx Capacity,442595.541,Baseline no CC,448557.992,-5962.451016,-0.013
+CESM1-CAM5,2050,Existing Tx Capacity,470205.351,Baseline no CC,462510.427,7694.923984,0.017
+CMCC-CM,2030,Existing Tx Capacity,397134.97,Baseline no CC,397134.995,-0.025,0
+CMCC-CM,2035,Existing Tx Capacity,403023.457,Baseline no CC,405855.11,-2831.653,-0.007
+CMCC-CM,2040,Existing Tx Capacity,415788.187,Baseline no CC,417412.8031,-1624.616098,-0.004
+CMCC-CM,2045,Existing Tx Capacity,438288.719,Baseline no CC,448557.992,-10269.27298,-0.023
+CMCC-CM,2050,Existing Tx Capacity,440050.5611,Baseline no CC,462510.427,-22459.86595,-0.049
+CMCC-CMS,2030,Existing Tx Capacity,397135,Baseline no CC,397134.995,0.005,0
+CMCC-CMS,2035,Existing Tx Capacity,400328.229,Baseline no CC,405855.11,-5526.881,-0.014
+CMCC-CMS,2040,Existing Tx Capacity,409096.003,Baseline no CC,417412.8031,-8316.8001,-0.02
+CMCC-CMS,2045,Existing Tx Capacity,416521.84,Baseline no CC,448557.992,-32036.152,-0.071
+CMCC-CMS,2050,Existing Tx Capacity,439116.12,Baseline no CC,462510.427,-23394.307,-0.051
+CNRM-CM5,2030,Existing Tx Capacity,397134.99,Baseline no CC,397134.995,-0.005,0
+CNRM-CM5,2035,Existing Tx Capacity,401131.81,Baseline no CC,405855.11,-4723.3,-0.012
+CNRM-CM5,2040,Existing Tx Capacity,406464.24,Baseline no CC,417412.8031,-10948.5631,-0.026
+CNRM-CM5,2045,Existing Tx Capacity,426774.572,Baseline no CC,448557.992,-21783.42,-0.049
+CNRM-CM5,2050,Existing Tx Capacity,466759.746,Baseline no CC,462510.427,4249.319006,0.009
+CanESM,2030,Existing Tx Capacity,397134.994,Baseline no CC,397134.995,-0.001,0
+CanESM,2035,Existing Tx Capacity,406989.21,Baseline no CC,405855.11,1134.1,0.003
+CanESM,2040,Existing Tx Capacity,414403,Baseline no CC,417412.8031,-3009.8031,-0.007
+CanESM,2045,Existing Tx Capacity,442589.9461,Baseline no CC,448557.992,-5968.0459,-0.013
+CanESM,2050,Existing Tx Capacity,465132.304,Baseline no CC,462510.427,2621.877001,0.006
+GFDL-CM3,2030,Existing Tx Capacity,397135.05,Baseline no CC,397134.995,0.055,0
+GFDL-CM3,2035,Existing Tx Capacity,401796.338,Baseline no CC,405855.11,-4058.771976,-0.01
+GFDL-CM3,2040,Existing Tx Capacity,410453.6519,Baseline no CC,417412.8031,-6959.151188,-0.017
+GFDL-CM3,2045,Existing Tx Capacity,441130.314,Baseline no CC,448557.992,-7427.677951,-0.017
+GFDL-CM3,2050,Existing Tx Capacity,467515.4181,Baseline no CC,462510.427,5004.991077,0.011
+GFDL-ESM2M,2030,Existing Tx Capacity,397135.03,Baseline no CC,397134.995,0.035,0
+GFDL-ESM2M,2035,Existing Tx Capacity,401444.3,Baseline no CC,405855.11,-4410.81,-0.011
+GFDL-ESM2M,2040,Existing Tx Capacity,409932.353,Baseline no CC,417412.8031,-7480.4501,-0.018
+GFDL-ESM2M,2045,Existing Tx Capacity,428333.219,Baseline no CC,448557.992,-20224.773,-0.045
+GFDL-ESM2M,2050,Existing Tx Capacity,439043.86,Baseline no CC,462510.427,-23466.56697,-0.051
+HadGEM2-CC,2030,Existing Tx Capacity,397135.02,Baseline no CC,397134.995,0.025,0
+HadGEM2-CC,2035,Existing Tx Capacity,406180.998,Baseline no CC,405855.11,325.888,0.001
+HadGEM2-CC,2040,Existing Tx Capacity,421109.4179,Baseline no CC,417412.8031,3696.6148,0.009
+HadGEM2-CC,2045,Existing Tx Capacity,441677.456,Baseline no CC,448557.992,-6880.536,-0.015
+HadGEM2-CC,2050,Existing Tx Capacity,449015.891,Baseline no CC,462510.427,-13494.536,-0.029
+HadGEM2-ES,2030,Existing Tx Capacity,397134.96,Baseline no CC,397134.995,-0.035,0
+HadGEM2-ES,2035,Existing Tx Capacity,404489.2752,Baseline no CC,405855.11,-1365.8348,-0.003
+HadGEM2-ES,2040,Existing Tx Capacity,408318.854,Baseline no CC,417412.8031,-9093.9491,-0.022
+HadGEM2-ES,2045,Existing Tx Capacity,435282.55,Baseline no CC,448557.992,-13275.442,-0.03
+HadGEM2-ES,2050,Existing Tx Capacity,462203.57,Baseline no CC,462510.427,-306.857,-0.001
+MIROC5,2030,Existing Tx Capacity,397135,Baseline no CC,397134.995,0.005,0
+MIROC5,2035,Existing Tx Capacity,402312.46,Baseline no CC,405855.11,-3542.65,-0.009
+MIROC5,2040,Existing Tx Capacity,410772.5729,Baseline no CC,417412.8031,-6640.23025,-0.016
+MIROC5,2045,Existing Tx Capacity,451547.9089,Baseline no CC,448557.992,2989.91685,0.007
+MIROC5,2050,Existing Tx Capacity,469687.2609,Baseline no CC,462510.427,7176.83385,0.016
+MPI-ESM-LR,2030,Existing Tx Capacity,397134.92,Baseline no CC,397134.995,-0.075,0
+MPI-ESM-LR,2035,Existing Tx Capacity,402179.07,Baseline no CC,405855.11,-3676.039969,-0.009
+MPI-ESM-LR,2040,Existing Tx Capacity,407100.67,Baseline no CC,417412.8031,-10312.13308,-0.025
+MPI-ESM-LR,2045,Existing Tx Capacity,436650.6391,Baseline no CC,448557.992,-11907.35294,-0.027
+MPI-ESM-LR,2050,Existing Tx Capacity,453840.4611,Baseline no CC,462510.427,-8669.965922,-0.019
+bcc-csm1-1,2030,Existing Tx Capacity,397134.98,Baseline no CC,397134.995,-0.015,0
+bcc-csm1-1,2035,Existing Tx Capacity,407018.48,Baseline no CC,405855.11,1163.37,0.003
+bcc-csm1-1,2040,Existing Tx Capacity,415733.4579,Baseline no CC,417412.8031,-1679.3452,-0.004
+bcc-csm1-1,2045,Existing Tx Capacity,436362.61,Baseline no CC,448557.992,-12195.382,-0.027
+bcc-csm1-1,2050,Existing Tx Capacity,470190.49,Baseline no CC,462510.427,7680.063,0.017
